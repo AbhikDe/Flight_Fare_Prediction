@@ -62,6 +62,9 @@ Pycharm
 Deployed on heroku -- [Link](https://flight-fare-prediction.herokuapp.com/)
 <br> the instruction given on [Heroku Documentation](https://devcenter.heroku.com/articles/getting-started-with-python) to deploy a web app.
 
+## Web View:
+<img align="center" width="350" height="450" src="https://github.com/AbhikDe/flight_Fare_Prediction/blob/master/Output/demo.jpg">
+
 ## Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue]() here by including your search query and the expected result
 
