@@ -66,7 +66,7 @@ Deployed on heroku -- [Link](https://flight-fare-prediction.herokuapp.com/)
 <img align="center" width="350" height="450" src="https://github.com/AbhikDe/flight_Fare_Prediction/blob/master/Output/demo.jpg">
 
 ## Bug / Feature Request
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue]() here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/AbhikDe/flight_Fare_Prediction/issues) here by including your search query and the expected result
 
 ## Future Scope
 * Use multiple Algorithm
